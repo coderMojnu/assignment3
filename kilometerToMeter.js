@@ -1,3 +1,4 @@
+// js code to convert kilometer to meter unit
 function kilometerToMeter(km){
     const meter = km*1000;
     return meter;
