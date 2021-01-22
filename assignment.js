@@ -53,7 +53,3 @@ function megaFriend(friendsName) { //input an arry which includes all of your fr
     }
     return longName;
 }
-
-
-
-//pray for me, vai
